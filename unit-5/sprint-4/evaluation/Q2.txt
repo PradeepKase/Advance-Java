@@ -1,0 +1,21 @@
+there are  three types of realtionships:
+1. One to many
+2. One to one
+3. many to many
+
+One-to-one:
+It means that a record in the first table can have one and only record related to it in a second table
+ex:A product listed in a product table would have only one country of originrecord in an operation table;
+
+One-to-many:
+Most common relartion between tables is the one -to many realationship. In a one-to-many realationship
+a record int the first table is related to multiple records in second table.
+
+
+many-to-many:
+it is defined as a record in the first table having multiple relation in the second table and those
+records in the second table also having multiple relationships within the first table.
+
+ex:
+A streaming service would have TV series that are selected to view by multiple customer while each customer
+of the services would watch multiple TV series. 
